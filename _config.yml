@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "taylorjkemper"
 facebook:
   username               :
   app_id                 :
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Taylor Kemper"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/grand-canyon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "read. run. code."
   location         : "Virginia"
   email            : "tjkemper6@gmail.com"
@@ -94,13 +94,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "taylorkemper"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "taylorjkemper"
   vine             :
   weibo            :
   xing             :
