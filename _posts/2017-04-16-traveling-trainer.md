@@ -1,4 +1,4 @@
----
+m---
 title:  "Traveling Trainer"
 tags: [training, photos]
 ---
@@ -9,7 +9,7 @@ In the last year, I have become a [traveling trainer](https://en.wikipedia.org/w
 
 I ran a 10 week code bootcamp at [ASU](https://alumni.asu.edu/news/blog/cracking-career-code-revature-partners-asu-close-%E2%80%9Cit-skills-gap%E2%80%9D).
 
-During my stay I visited the [Grand Canyon](https://www.nps.gov/grca/index.htm)
+During my stay I visited the [Grand Canyon](https://www.nps.gov/grca/index.htm).
 ![grand canyon]({{ site.url }}/assets/images/grand-canyon/1.jpg)
 ![grand canyon]({{ site.url }}/assets/images/grand-canyon/2.jpg)
 
