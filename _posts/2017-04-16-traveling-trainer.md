@@ -3,7 +3,7 @@ title:  "Traveling Trainer"
 tags: [training, photos]
 ---
 
-In the last year, I have become a [traveling trainer](https://en.wikipedia.org/wiki/Travelling_salesman_problem) so to speak.
+I have become a [traveling trainer](https://en.wikipedia.org/wiki/Travelling_salesman_problem), so to speak.
 
 # Arizona
 
