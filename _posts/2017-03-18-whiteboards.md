@@ -1,6 +1,6 @@
 ---
 title:  "Whiteboards"
-tags: [software]
+tags: [training]
 ---
 
 I recently finished conducting a bootcamp at ASU and I think I've found a new tradition: **Whiteboards**.
