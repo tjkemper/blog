@@ -1,4 +1,4 @@
-m---
+---
 title:  "Traveling Trainer"
 tags: [training, photos]
 ---
