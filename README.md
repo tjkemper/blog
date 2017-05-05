@@ -8,12 +8,16 @@ Thanks to:
 
 ### Serve
 
-```
+```sh
 bundle exec jekyll serve
+```
+
+```sh
+bundle exec jekyll serve --drafts
 ```
 
 ### Build
 
-```
+```sh
 bundle exec jekyll build
 ```
