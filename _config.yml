@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Taylor Kemper"
   avatar           : "/assets/images/grand-canyon/1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "read. run. code."
-  location         : "Virginia"
+  bio              : "to, err := human()"
+  location         : "Seattle"
   email            :
   uri              :
   bitbucket        :
